@@ -1,0 +1,18 @@
+{
+  "name": "phaser-tilemap-post-3-02-dungeon-simple-mapping",
+  "version": "1.0.0",
+  "description": "Simple tile mapping for our dungeon",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@mikewesthad/dungeon": "1.2.2",
+    "phaser": "3.16.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
